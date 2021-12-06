@@ -1,6 +1,6 @@
 # Climate Change Is Inevitable But Do Some Countries Stand A Better Chance Against It Than Others?
 ## About us
->&emsp; This project was worked on by Adam Callanan (AdamCallanan), Trevor Lee (TreeLeef), and Angus Murchison(AngusMurch).
+>&emsp; This project was worked on by Adam Callanan (AdamCallanan), Trevor Lee (TreeLeef), and Angus Murchison (AngusMurch).
 ## Introduction:
 >&emsp; Climate change is a very critical and ever-looming issue which many of us remain powerless over and can do nothing about but watch. It is because of this threatening existential nature that makes it a very rewarding and reasonable data set to be interested in and analyze. We hope our findings can give us some insight into what geographical and societal problems of countries may be in any way correlated to climate change. Furthermore, our analysis can further prove the threat this issue poses by showing what the future may look like if nothing is done about it.
 ## Description of the Data
